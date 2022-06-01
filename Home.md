@@ -1,5 +1,7 @@
 ## 1.Problem Definition
  ###  Need Statement
+Design a semi automatic plastic Cup crushing machine which is user and environmental friendly it should not exceed the volume of 5 cubic feet, you should be able to crush 10 cups for minute budget to build should not exceed rupees 10000 and  should work for 3 hours continuously
+
 #### 1.1 Questions and Answers
                 Table 1.1 Questions and Answers 
 |Sl. No |Questions |Answers |Objective/Constraints/Functions|
@@ -18,6 +20,41 @@
 | 12. |What type of cups it should be dispose? |Cups should be either plastic or paper |Objective |
 | 13. |What should be the machine do after the cups are crushed? |Move the crushed cup to the dustbin |Function |
 
+# 1.2 Basic Surveys and Requirements
+Table 2 : Observation from a literature survey
+| Sl. No| Observation From Survey| Requirements|
+|-------|------------------------|-------------|
+|   1.  |                        |             |
+|   2.  |                        |             |
+|   3.  |                        |             |
+|   4.  |                        |             |
+|   5.  |                        |             |
+## 1.3 Identifying Client's Objectives
+Step 1 : Prepare list of design Objectives
+
+Table 3 : Objectives Identified
+
+| Sl.No | Objectives |
+|-------|------------|
+|   1.  | Machine Should be semiautomatic |
+|   2.  | Machine Should be portable |
+|   3.  | Machine Should be user friendly |
+|   4.  | Machine should be hygienic |
+
+#  Problem Definition version 1.1:-
+ Design a semiautomatic cup crusher machine ,it should be portable and user-friendly, which is able to do accurate cup crushing, the cost should be minimum and should be easily recyclable.
+
+# 1.4 Identify constraints
+Step 1: Prepare a list of design constraints
+
+Table 4: Identified Constraints
+
+| Sl .No | Constraints |
+|--------|-------------|
+|        |
+|        |
+|        |
+|        |
 
 
 
