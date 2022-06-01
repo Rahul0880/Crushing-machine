@@ -1,6 +1,6 @@
  ## 1.Problem Definition
  ###  Need Statement
-Design a semi automatic plastic Cup crushing machine which is user and environmental friendly it should not exceed the volume of 5 cubic feet, you should be able to crush 10 cups for minute budget to build should not exceed rupees 10000 and  should work for 3 hours continuously
+Design a semi automatic plastic Cup crushing machine which is user and environmental friendly it should not exceed the volume of 5 cubic feet, you should be able to crush 2 cups for minute budget to build should not exceed rupees 6000 and  should work for 3 hours continuously
 
 #### 1.1 Questions and Answers
                 Table 1.1 Questions and Answers 
