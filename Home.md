@@ -1,6 +1,6 @@
  ## 1.Problem Definition
- ###  Need Statement
-Design a semi automatic plastic Cup crushing machine which is user and environmental friendly it should not exceed the volume of 5 cubic feet, you should be able to crush 2 cups for minute budget to build should not exceed rupees 6000 and  should work for 3 hours continuously
+ ###  Need Statement:
+ Crushing machine is specially designed to reduce large size of plastic cups into small particles and which can be further recycled. Design a semi automatic plastic Cup crushing machine which can be user and environmental friendly. It should not exceed the volume of 5 cubic feet, it should be able to crush 2 cups for minute. Budget should not exceed rupees 6000 and  should work for 3 hours continuously.
 
 #### 1.1 Questions and Answers
                 Table 1.1 Questions and Answers 
@@ -20,15 +20,15 @@ Design a semi automatic plastic Cup crushing machine which is user and environme
 | 12. |What type of cups it should be dispose? |Cups should be either plastic or paper |Objective |
 | 13. |What should be the machine do after the cups are crushed? |Move the crushed cup to the dustbin |Function |
 
-# 1.2 Basic Surveys and Requirements
+# 1.2 Basic Survey and Requirements
                     Table 2 : Observation from a literature survey
 | Sl. No| Observation From Survey| Requirements|
 |-------|------------------------|-------------|
-|   1.  |                        |             |
-|   2.  |                        |             |
-|   3.  |                        |             |
-|   4.  |                        |             |
-|   5.  |                        |             |
+|   1.  |Weight of the machine   |It should be easy to carry and transportable.|
+|   2.  |  Working hours         |The machine should work fine for 3 hours.|                     
+|   3.  | Cost                   |Machine should be built with minimum budget.|            
+|   4.  | Number of cups to be crushed| The machine should crush 2 cups per minute.|                                      
+|   5.  | Material to be used |Materials used to build, must be non toxic and light weight.|              
 ## 1.3 Identifying Client's Objectives
 Step 1 : Prepare list of design Objectives
 
@@ -39,7 +39,7 @@ Table 3 : Objectives Identified
 |   1.  | Machine Should be semiautomatic |
 |   2.  | Machine Should be portable |
 |   3.  | Machine Should be user friendly |
-|   4.  | Machine should be hygienic |
+|   4.  | crushing material should be of soft plastic or paper|
 
 #  Problem Definition version 1.1:-
  Design a semiautomatic cup crusher machine ,it should be portable and user-friendly, which is able to do accurate cup crushing, the cost should be minimum and should be easily recyclable.
@@ -56,8 +56,8 @@ Step 1: Prepare a list of design constraints
 |   3.   | Machine should crush 2 cups at least per minute |
 |   4.   | Cups of maximum 50 0r 100ml can be crushed |
 |   5.   | Cost of the machine should be less then 6000 |
-|   6.   |
-|   7.   |
+|   6.   |Machine should crush one cup at a time|
+|   7.   |The machine should be able to work for 3 hours continuously|
 
 # Problem definition version 1.2 :-
 Design a semiautomatic cup crushing machine, which is able to do accurate and hygienic crushing process, it should be portable and user friendly. The Machine should be able to crush at least 2 cups per minute, budget to build should not exceed Rs. 6000 .
@@ -76,6 +76,5 @@ Step 1: Prepare a list of design functions
 |   6.   | Disposed plastic move it to dustbin |
 
 # Problem definition version 1.3 :-
-Design a semiautomatic cup crushing machine, which is able to do accurate and hygienic crushing process, it should be portable and user-friendly.  should be able to crush at least 2 cups per minute,  built with in Rs. 6000 . Machine should indicate  before and after crushing process is completed .(Sense the cup and it's size).
-
+Crushing machine is specially designed to reduce large size of plastic cups into small particles and which can be further recycled. Design a semi automatic plastic Cup crushing machine which can be user and environmental friendly. It should not exceed the volume of 5 cubic feet, it should be able to crush 2 cups for minute. Budget should not exceed rupees 6000 and  should work for 3 hours continuously.
 
