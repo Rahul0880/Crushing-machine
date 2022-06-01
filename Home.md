@@ -1,3 +1,16 @@
+ Introduction Team:-09 
+|Sl.no| Name | Hobbies | Photo |
+|-----|------|---------|-------|
+|  1  | Rahul Nimbai | Playing Games|<img src="https://user-images.githubusercontent.com/105428213/168127861-90a3a254-7d1f-4177-b1c3-180a0aaa42fd.png" height=120 weidgth=150>
+|  2  | Abhishek S Korishettar |Standup Comedy|<img src="https://user-images.githubusercontent.com/105428213/168133518-7dcd5b5a-0c97-4c68-96e2-117cbe42e676.JPG" height=150 weidgth=100>
+|  3  | Yugandra Sudhir Patil | Travelling |<img src="https://user-images.githubusercontent.com/105428213/168634716-2e4e2b80-b003-44ea-ad55-7e2eddd406da.jpg" height=150 weidgth=100>
+|  4  | Krutika Hooli | Reading Novels |<img src="https://user-images.githubusercontent.com/105428213/168635017-398c8a90-14a5-4fc0-89d8-4b69acc06936.jpeg" height=140 weidgth=100>
+
+
+
+
+
+
 ## 1.Problem Definition
  ###  Need Statement
 Design a semi automatic plastic Cup crushing machine which is user and environmental friendly it should not exceed the volume of 5 cubic feet, you should be able to crush 10 cups for minute budget to build should not exceed rupees 10000 and  should work for 3 hours continuously
