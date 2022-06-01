@@ -21,7 +21,7 @@ Design a semi automatic plastic Cup crushing machine which is user and environme
 | 13. |What should be the machine do after the cups are crushed? |Move the crushed cup to the dustbin |Function |
 
 # 1.2 Basic Surveys and Requirements
-Table 2 : Observation from a literature survey
+                    Table 2 : Observation from a literature survey
 | Sl. No| Observation From Survey| Requirements|
 |-------|------------------------|-------------|
 |   1.  |                        |             |
@@ -47,14 +47,35 @@ Table 3 : Objectives Identified
 # 1.4 Identify constraints
 Step 1: Prepare a list of design constraints
 
-Table 4: Identified Constraints
+                    Table 4: Identified Constraints
 
 | Sl .No | Constraints |
 |--------|-------------|
-|        |
-|        |
-|        |
-|        |
+|   1.   | Machine should weight less than 5 kg |
+|   2.   | Dimensions : 2.5ftX1.5ftX3ft |
+|   3.   | Machine should crush 2 cups at least per minute |
+|   4.   | Cups of maximum 50 0r 100ml can be crushed |
+|   5.   | Cost of the machine should be less then 6000 |
+|   6.   |
+|   7.   |
 
+# Problem definition version 1.2 :-
+Design a semiautomatic cup crushing machine, which is able to do accurate and hygienic crushing process, it should be portable and user friendly. The Machine should be able to crush at least 2 cups per minute, budget to build should not exceed Rs. 6000 .
+
+# 1.5 Establish Functions
+Step 1: Prepare a list of design functions
+
+                       Table 5 : Identified Functions
+| Sl. No | Functions |
+|--------|-----------|
+|   1.   | Handling and sensing plastic cups |
+|   2.   | Taking/dispensing cups and should not squeeze cups |
+|   3.   | Should take one cup at a time |
+|   4.   | Crushing cup |
+|   5.   | Indicating process completion |
+|   6.   | Disposed plastic move it to dustbin |
+
+# Problem definition version 1.3 :-
+Design a semiautomatic cup crushing machine, which is able to do accurate and hygienic crushing process, it should be portable and user-friendly.  should be able to crush at least 2 cups per minute,  built with in Rs. 6000 . Machine should indicate  before and after crushing process is completed .(Sense the cup and it's size).
 
 
