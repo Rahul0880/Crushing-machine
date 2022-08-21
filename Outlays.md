@@ -1,0 +1,1 @@
+#Expenditure on the entire system
